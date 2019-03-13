@@ -1,0 +1,255 @@
+2019-02-06 04:05:09,583 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 04:05:22,513 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 04:11:30,651 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 04:11:44,373 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 04:22:12,037 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 04:22:21,234 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 04:23:52,020 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 04:23:56,393 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab not clicked
+2019-02-06 04:24:26,489 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 04:24:35,397 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 04:31:12,007 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 04:31:39,730 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 04:39:47,826 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 04:40:00,051 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 04:43:12,009 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 04:43:23,265 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 05:14:38,083 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 05:14:52,498 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 05:19:03,804 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 05:19:15,505 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 05:20:46,867 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 05:20:51,330 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab not clicked
+2019-02-06 05:21:21,765 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 05:21:32,890 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 05:23:26,494 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 05:23:37,299 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 05:27:55,978 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 05:28:05,101 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 05:34:42,647 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 05:34:56,509 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 05:37:18,470 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 05:37:29,076 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 05:40:24,551 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 05:40:37,984 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 05:55:28,893 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 05:55:40,994 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 06:00:30,922 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 06:00:35,391 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab not clicked
+2019-02-06 06:01:22,821 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 06:01:27,216 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab not clicked
+2019-02-06 06:02:03,333 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 06:02:08,377 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab not clicked
+2019-02-06 06:02:47,397 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 06:02:58,514 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 06:07:01,342 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 06:07:14,787 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 06:21:45,799 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 06:21:50,214 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab not clicked
+2019-02-06 06:22:17,360 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 06:22:27,614 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 06:58:33,273 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 06:58:47,981 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 07:01:27,685 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 07:01:32,124 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab not clicked
+2019-02-06 07:02:11,847 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 07:02:23,124 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 07:07:13,072 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 07:07:26,730 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 07:17:36,368 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 07:17:41,091 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab not clicked
+2019-02-06 07:18:33,790 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 07:18:44,480 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 07:33:33,354 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 07:33:42,385 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 07:40:24,540 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 07:40:39,577 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 07:47:57,296 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 07:48:13,907 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 08:01:40,654 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 08:02:14,620 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 08:05:19,454 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 08:05:32,621 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 08:08:56,657 [ParallelWorker#1] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 08:09:00,419 [ParallelWorker#1] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Navigate to New Lease page
+2019-02-06 08:09:00,494 [ParallelWorker#1] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Record ID
+2019-02-06 08:09:00,758 [ParallelWorker#1] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Record Type
+2019-02-06 08:09:00,955 [ParallelWorker#1] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Classification
+2019-02-06 08:09:01,107 [ParallelWorker#1] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Brand
+2019-02-06 08:09:11,126 [ParallelWorker#1] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Original Start Date
+2019-02-06 08:09:11,328 [ParallelWorker#1] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Property Type
+2019-02-06 08:09:11,571 [ParallelWorker#1] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Start Date
+2019-02-06 08:09:11,731 [ParallelWorker#1] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Address : Street Name, Town, State PIN and Country
+2019-02-06 08:09:12,575 [ParallelWorker#1] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Organization
+2019-02-06 08:09:16,257 [ParallelWorker#1] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Region
+2019-02-06 08:09:19,714 [ParallelWorker#1] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Group Name
+2019-02-06 08:09:19,843 [ParallelWorker#1] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Owner Type
+2019-02-06 08:09:19,946 [ParallelWorker#1] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter End Date
+2019-02-06 08:09:20,229 [ParallelWorker#1] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Rent Type
+2019-02-06 08:09:20,369 [ParallelWorker#1] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Rentable Area
+2019-02-06 08:09:20,485 [ParallelWorker#1] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Measurment Area
+2019-02-06 08:09:20,666 [ParallelWorker#1] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Land Unit
+2019-02-06 08:09:24,915 [ParallelWorker#1] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Clicked on Save and Create Lease button
+2019-02-06 08:09:24,985 [ParallelWorker#1] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Lease default page displayed
+2019-02-06 08:09:25,573 [ParallelWorker#1] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Logout from application
+2019-02-06 08:09:43,480 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 08:09:54,986 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - The expected record type is displayed
+2019-02-06 08:09:55,149 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected classification is displayed
+2019-02-06 08:09:55,187 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Brand is displayed
+2019-02-06 08:09:55,224 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - The expected organization is displayed
+2019-02-06 08:09:55,260 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Region is displayed
+2019-02-06 08:09:55,395 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Group is displayed
+2019-02-06 08:09:55,513 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Owner Type is displayed
+2019-02-06 08:09:55,637 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Rent Type is displayed
+2019-02-06 08:09:58,540 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Logout from application
+2019-02-06 08:10:30,984 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 08:10:42,953 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-06 08:10:43,183 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Clicked on Landlord 'Edit' link
+2019-02-06 08:10:43,273 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Message not displayed
+2019-02-06 08:12:00,295 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 08:12:10,783 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-06 08:12:11,145 [12] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Clicked on Landlord 'Edit' link
+2019-02-06 08:13:07,765 [12] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - No contacts message displayed
+2019-02-06 08:26:38,916 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 08:26:51,750 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-06 08:26:51,874 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Clicked on Landlord 'Edit' link
+2019-02-06 08:26:52,332 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - No contacts message displayed
+2019-02-06 08:26:59,020 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Error while saving the data
+2019-02-06 08:28:07,350 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 08:28:20,015 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-06 08:28:20,612 [12] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Clicked on Landlord 'Edit' link
+2019-02-06 08:28:26,502 [12] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - No contacts message displayed
+2019-02-06 08:28:34,098 [12] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Error while saving the data
+2019-02-06 08:40:54,954 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 08:40:59,428 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab not clicked
+2019-02-06 08:41:28,546 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 08:41:40,743 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-06 08:41:40,934 [13] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Clicked on Landlord 'Edit' link
+2019-02-06 08:41:41,393 [13] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - No contacts message displayed
+2019-02-06 08:43:19,674 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 08:43:31,787 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-06 08:43:31,939 [12] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Clicked on Landlord 'Edit' link
+2019-02-06 08:43:32,439 [12] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - No contacts message displayed
+2019-02-06 08:45:06,332 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 08:45:10,935 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab not clicked
+2019-02-06 08:46:13,098 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 08:46:17,555 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab not clicked
+2019-02-06 08:46:42,609 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 08:46:47,035 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab not clicked
+2019-02-06 08:47:26,338 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 08:47:37,295 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-06 08:47:37,626 [12] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Clicked on Landlord 'Edit' link
+2019-02-06 08:47:38,022 [12] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - No contacts message displayed
+2019-02-06 08:47:47,607 [12] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Error while saving the data
+2019-02-06 08:52:25,260 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 08:52:41,217 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-06 08:52:41,389 [13] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Clicked on Landlord 'Edit' link
+2019-02-06 08:52:41,955 [13] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - No contacts message displayed
+2019-02-06 09:24:57,871 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 09:25:13,903 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-06 09:25:14,077 [12] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Clicked on Landlord 'Edit' link
+2019-02-06 09:25:14,253 [12] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Message not displayed
+2019-02-06 09:25:38,902 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 09:25:43,859 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab not clicked
+2019-02-06 09:26:27,676 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 09:26:41,024 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-06 09:26:41,224 [13] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Clicked on Landlord 'Edit' link
+2019-02-06 09:26:41,691 [13] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - No contacts message displayed
+2019-02-06 09:31:28,629 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 09:31:40,678 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-06 09:31:40,843 [13] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Clicked on Landlord 'Edit' link
+2019-02-06 09:31:41,286 [13] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - No contacts message displayed
+2019-02-06 09:31:47,423 [13] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Error while saving the data
+2019-02-06 09:37:59,520 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 09:38:12,083 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-06 09:38:12,301 [12] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Clicked on Landlord 'Edit' link
+2019-02-06 09:38:12,896 [12] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Message not displayed
+2019-02-06 09:40:32,858 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 09:40:44,518 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-06 09:40:44,663 [13] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Clicked on Landlord 'Edit' link
+2019-02-06 09:40:45,122 [13] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - No contacts message displayed
+2019-02-06 09:42:46,604 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 09:42:58,126 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-06 09:42:58,317 [13] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Clicked on Landlord 'Edit' link
+2019-02-06 09:42:58,729 [13] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - No contacts message displayed
+2019-02-06 09:45:47,304 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 09:45:51,691 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab not clicked
+2019-02-06 09:46:46,916 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 09:46:51,347 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab not clicked
+2019-02-06 09:47:21,531 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 09:47:25,930 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab not clicked
+2019-02-06 09:48:13,779 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 09:48:39,886 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-06 09:48:40,047 [12] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Clicked on Landlord 'Edit' link
+2019-02-06 09:48:40,489 [12] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - No contacts message displayed
+2019-02-06 09:51:52,958 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 09:52:06,491 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-06 09:52:06,718 [13] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Clicked on Landlord 'Edit' link
+2019-02-06 09:52:07,127 [13] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - No contacts message displayed
+2019-02-06 10:36:45,182 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 10:36:59,807 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-06 10:36:59,957 [13] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Clicked on Landlord 'Edit' link
+2019-02-06 10:37:00,454 [13] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - No contacts message displayed
+2019-02-06 10:46:16,055 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 10:46:20,463 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab not clicked
+2019-02-06 10:46:43,900 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 10:47:16,403 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-06 10:47:16,553 [12] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Clicked on Landlord 'Edit' link
+2019-02-06 10:47:16,852 [12] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Message not displayed
+2019-02-06 10:47:55,033 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 10:48:06,671 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-06 10:48:07,042 [13] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Clicked on Landlord 'Edit' link
+2019-02-06 10:48:07,606 [13] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - No contacts message displayed
+2019-02-06 10:48:30,273 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Logout from application
+2019-02-06 10:52:27,155 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 10:52:41,508 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-06 10:52:41,665 [12] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Clicked on Landlord 'Edit' link
+2019-02-06 10:52:43,047 [12] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Message not displayed
+2019-02-06 10:53:32,238 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 10:53:42,974 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-06 10:53:43,127 [13] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Clicked on Tenant 'Edit' link
+2019-02-06 10:53:43,601 [13] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - No contacts message displayed
+2019-02-06 10:54:15,566 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Logout from application
+2019-02-06 10:55:57,958 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 10:56:11,505 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-06 10:56:11,715 [12] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Clicked on Payor 'Edit' link
+2019-02-06 10:56:12,223 [12] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - No contacts message displayed
+2019-02-06 10:56:31,627 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Logout from application
+2019-02-06 11:02:36,721 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 11:02:47,802 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-06 11:03:31,923 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 11:25:05,029 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 11:25:20,924 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-06 11:25:24,499 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 11:32:19,646 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 11:32:30,132 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-06 11:32:33,184 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 11:36:33,745 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 11:36:44,613 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-06 11:36:47,828 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 11:37:01,154 [12] INFO TxAutomateFramework.PageObjects.FinancialsPageObjects - Payee details displayed as expected
+2019-02-06 11:37:03,209 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-06 12:13:26,304 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 12:13:40,261 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-06 12:13:43,676 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 12:30:02,772 [12] INFO TxAutomateFramework.PageObjects.FinancialsPageObjects - Payee details displayed as expected
+2019-02-06 12:30:10,710 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-06 12:30:12,109 [12] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Error message:The landlord is already in payee list
+2019-02-06 12:30:12,713 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Logout from application
+2019-02-06 12:33:03,664 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 12:33:21,299 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 13:06:31,502 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 13:06:36,254 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab not clicked
+2019-02-06 13:07:15,820 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 13:07:29,550 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 13:14:27,902 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 13:14:39,950 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 13:21:45,925 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 13:22:02,072 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 13:22:50,705 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 13:23:03,265 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 13:25:41,938 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-06 13:25:56,423 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-06 13:26:49,001 [12] INFO TxAutomateFramework.PageObjects.FinancialsPageObjects - Planned increase table displayed
+2019-02-06 13:27:15,801 [12] INFO TxAutomateFramework.PageObjects.FinancialsPageObjects - Financial calendar page displayed
+2019-02-06 13:27:53,159 [12] INFO TxAutomateFramework.PageObjects.FinancialsPageObjects - Failed to click Category link

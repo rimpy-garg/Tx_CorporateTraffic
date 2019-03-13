@@ -1,0 +1,2 @@
+2019-03-11 17:02:41,134 [ParallelWorker#1] INFO GenericFramework.Hooks - The type initializer for 'GenericFramework.ExtentReport.ExtentManager' threw an exception.
+2019-03-11 17:11:29,911 [ParallelWorker#1] INFO GenericFramework.Hooks - The type initializer for 'GenericFramework.ExtentReport.ExtentManager' threw an exception.

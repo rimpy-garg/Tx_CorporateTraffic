@@ -1,0 +1,30 @@
+2019-01-29 11:56:07,069 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - CopyingC:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx file to output folder
+2019-01-29 11:56:07,526 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - reading data from C:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx
+2019-01-29 11:56:07,536 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - reading data from LeaseGeneral
+2019-01-29 11:56:19,287 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-01-29 11:56:21,997 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Navigate to New Lease page
+2019-01-29 11:56:22,067 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Record ID
+2019-01-29 11:56:22,331 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Record Type
+2019-01-29 11:56:22,546 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Classification
+2019-01-29 11:56:22,705 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Brand
+2019-01-29 11:56:32,048 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Original Start Date
+2019-01-29 11:56:32,686 [ParallelWorker#2] ERROR TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Error while entering the data for New LeaseNUnit.Framework.AssertionException: Multiple failures or warnings in test:
+  1) Exception has been thrown by the target of an invocation.
+  2) Exception has been thrown by the target of an invocation.
+
+   at NUnit.Framework.Assert.ReportFailure(String message) in C:\src\nunit\nunit\src\NUnitFramework\framework\Assert.cs:line 394
+   at TxAutomateFramework.PageObjects.LeaseGeneralPageObjects.EnterOriginalStartDate() in C:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\PageObjects\LeaseGeneralPageObjects.cs:line 368
+   at TxAutomateFramework.Steps.LeaseGeneralModuleSteps.ThenIEnteredAllTheMandatoryInformationForCreatingNewLeaseForm(String strRcrdType, String strClassification, String strBrand, String strPropType, String StrStreetName, String strTown, String strState, String strPIN, String strCountry, String strOrganization, String strRegion, String strGrpName, String strOwnerType, String strRentType, String strArea, String strMesrmtArea, String strLandUnit) in C:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\Steps\LeaseGeneralModuleSteps.cs:line 72
+2019-01-29 11:56:33,116 [ParallelWorker#2] ERROR TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Save and Create Lease button not clickedNUnit.Framework.AssertionException: Multiple failures or warnings in test:
+  1) Exception has been thrown by the target of an invocation.
+  2) Exception has been thrown by the target of an invocation.
+  3) Exception has been thrown by the target of an invocation.
+  4) Multiple failures or warnings in test:
+  1) Exception has been thrown by the target of an invocation.
+  2) Exception has been thrown by the target of an invocation.
+  3) Exception has been thrown by the target of an invocation.
+
+
+   at NUnit.Framework.Assert.ReportFailure(String message) in C:\src\nunit\nunit\src\NUnitFramework\framework\Assert.cs:line 394
+   at TxAutomateFramework.PageObjects.LeaseGeneralPageObjects.ClickSaveCreateLease() in C:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\PageObjects\LeaseGeneralPageObjects.cs:line 694
+   at TxAutomateFramework.Steps.LeaseGeneralModuleSteps.WhenIPressSaveAndCreateLeaseButton() in C:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\Steps\LeaseGeneralModuleSteps.cs:line 113

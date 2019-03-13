@@ -1,0 +1,174 @@
+2019-02-01 07:24:55,473 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-01 07:24:59,098 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Navigate to New Lease page
+2019-02-01 07:24:59,169 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Record ID
+2019-02-01 07:24:59,564 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Record Type
+2019-02-01 07:24:59,785 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Classification
+2019-02-01 07:24:59,972 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Brand
+2019-02-01 07:25:34,199 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Original Start Date
+2019-02-01 07:25:34,436 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Property Type
+2019-02-01 07:25:34,679 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Start Date
+2019-02-01 07:25:34,969 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Address : Street Name, Town, State PIN and Country
+2019-02-01 07:25:35,951 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Organization
+2019-02-01 07:25:39,508 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Region
+2019-02-01 07:25:42,992 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Group Name
+2019-02-01 07:25:43,134 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Owner Type
+2019-02-01 07:25:43,339 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter End Date
+2019-02-01 07:25:43,520 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Rent Type
+2019-02-01 07:25:43,655 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Rentable Area
+2019-02-01 07:25:43,802 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Measurment Area
+2019-02-01 07:25:43,998 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Land Unit
+2019-02-01 07:25:48,927 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Clicked on Save and Create Lease button
+2019-02-01 07:27:07,792 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-01 07:27:11,217 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Navigate to New Lease page
+2019-02-01 07:27:11,286 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Record ID
+2019-02-01 07:27:11,703 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Record Type
+2019-02-01 07:27:11,947 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Classification
+2019-02-01 07:27:12,171 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Brand
+2019-02-01 07:27:27,911 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Original Start Date
+2019-02-01 07:27:28,200 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Property Type
+2019-02-01 07:27:28,477 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Start Date
+2019-02-01 07:27:28,652 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Address : Street Name, Town, State PIN and Country
+2019-02-01 07:27:29,449 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Organization
+2019-02-01 07:27:33,032 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Region
+2019-02-01 07:27:36,640 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Group Name
+2019-02-01 07:27:36,780 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Owner Type
+2019-02-01 07:27:36,894 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter End Date
+2019-02-01 07:27:37,035 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Rent Type
+2019-02-01 07:27:37,214 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Rentable Area
+2019-02-01 07:27:37,375 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Measurment Area
+2019-02-01 07:27:37,573 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Land Unit
+2019-02-01 07:27:42,820 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Clicked on Save and Create Lease button
+2019-02-01 07:27:42,910 [14] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Lease default page displayed
+2019-02-01 07:27:43,659 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Logout from application
+2019-02-01 07:30:00,300 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-01 07:30:03,671 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Navigate to New Lease page
+2019-02-01 07:30:03,746 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Record ID
+2019-02-01 07:30:03,941 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Record Type
+2019-02-01 07:30:04,153 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Classification
+2019-02-01 07:30:04,308 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Brand
+2019-02-01 07:30:13,764 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Original Start Date
+2019-02-01 07:30:13,950 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Property Type
+2019-02-01 07:30:14,169 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Start Date
+2019-02-01 07:30:14,323 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Address : Street Name, Town, State PIN and Country
+2019-02-01 07:30:15,207 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Organization
+2019-02-01 07:30:18,765 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Region
+2019-02-01 07:30:22,236 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Group Name
+2019-02-01 07:30:22,374 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Owner Type
+2019-02-01 07:30:22,492 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter End Date
+2019-02-01 07:30:22,640 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Rent Type
+2019-02-01 07:30:22,795 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Rentable Area
+2019-02-01 07:30:22,912 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Measurment Area
+2019-02-01 07:30:23,087 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Land Unit
+2019-02-01 07:30:32,017 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Clicked on Save and Create Lease button
+2019-02-01 07:30:32,125 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Lease default page displayed
+2019-02-01 07:30:32,786 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Logout from application
+2019-02-01 07:30:33,311 [ParallelWorker#2] INFO GenericFramework.Hooks - Object reference not set to an instance of an object.
+2019-02-01 07:34:38,367 [ParallelWorker#1] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-01 07:34:53,205 [ParallelWorker#1] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - The expected record type is not displayed
+2019-02-01 07:59:16,547 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-01 08:06:03,398 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-01 08:06:57,555 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-01 08:15:05,128 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-01 08:16:18,707 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-01 08:16:59,897 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-01 08:17:28,130 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - The expected record type is displayed
+2019-02-01 08:24:53,387 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-01 08:25:03,940 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - The expected record type is displayed
+2019-02-01 08:25:04,129 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected classification is displayed
+2019-02-01 08:25:04,165 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Brand is displayed
+2019-02-01 08:25:04,199 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - The expected organization is displayed
+2019-02-01 08:25:26,782 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Region is displayed
+2019-02-01 08:25:26,947 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Group is displayed
+2019-02-01 08:25:27,147 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Owner Type is displayed
+2019-02-01 08:25:27,272 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Rent Type is displayed
+2019-02-01 08:29:42,219 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-01 08:29:53,088 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - The expected record type is displayed
+2019-02-01 08:29:53,233 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected classification is displayed
+2019-02-01 08:29:53,273 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Brand is displayed
+2019-02-01 08:29:53,307 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - The expected organization is displayed
+2019-02-01 08:29:53,340 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Region is displayed
+2019-02-01 08:29:53,484 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Group is displayed
+2019-02-01 08:29:53,597 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Owner Type is displayed
+2019-02-01 08:29:53,707 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Rent Type is displayed
+2019-02-01 08:40:36,197 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-01 08:40:53,478 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - The expected record type is displayed
+2019-02-01 08:40:53,635 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected classification is displayed
+2019-02-01 08:40:53,673 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Brand is displayed
+2019-02-01 08:40:53,708 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - The expected organization is displayed
+2019-02-01 08:40:53,742 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Region is displayed
+2019-02-01 08:40:53,894 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Group is displayed
+2019-02-01 08:40:54,010 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Owner Type is displayed
+2019-02-01 08:40:54,144 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Rent Type is displayed
+2019-02-01 08:43:41,438 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-01 08:44:15,157 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-01 08:44:25,968 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - The expected record type is displayed
+2019-02-01 08:44:26,136 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected classification is displayed
+2019-02-01 08:44:26,171 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Brand is displayed
+2019-02-01 08:44:26,218 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - The expected organization is displayed
+2019-02-01 08:44:26,255 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Region is displayed
+2019-02-01 08:44:26,407 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Group is displayed
+2019-02-01 08:44:26,527 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Owner Type is displayed
+2019-02-01 08:44:26,648 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Rent Type is displayed
+2019-02-01 08:50:52,380 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-01 08:51:07,546 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - The expected record type is displayed
+2019-02-01 08:51:07,742 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected classification is displayed
+2019-02-01 08:51:07,779 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Brand is displayed
+2019-02-01 08:51:07,817 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - The expected organization is displayed
+2019-02-01 08:51:07,855 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Region is displayed
+2019-02-01 08:51:08,012 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Group is displayed
+2019-02-01 08:51:08,202 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Owner Type is displayed
+2019-02-01 08:51:08,333 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Rent Type is displayed
+2019-02-01 08:55:37,518 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-01 08:55:49,462 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - The expected record type is displayed
+2019-02-01 08:55:49,633 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected classification is displayed
+2019-02-01 08:55:49,673 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Brand is displayed
+2019-02-01 08:55:49,709 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - The expected organization is displayed
+2019-02-01 08:55:49,750 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Region is displayed
+2019-02-01 08:55:49,896 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Group is displayed
+2019-02-01 08:55:50,038 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Owner Type is displayed
+2019-02-01 08:55:50,160 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Rent Type is displayed
+2019-02-01 09:11:07,882 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-01 09:11:19,890 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - The expected record type is displayed
+2019-02-01 09:11:20,072 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected classification is displayed
+2019-02-01 09:11:20,115 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Brand is displayed
+2019-02-01 09:11:20,151 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - The expected organization is displayed
+2019-02-01 09:11:20,185 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Region is displayed
+2019-02-01 09:11:20,334 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Group is displayed
+2019-02-01 09:11:20,467 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Owner Type is displayed
+2019-02-01 09:11:20,608 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Rent Type is displayed
+2019-02-01 09:13:21,980 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-01 09:13:33,929 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - The expected record type is displayed
+2019-02-01 09:13:34,132 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected classification is displayed
+2019-02-01 09:13:34,168 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Brand is displayed
+2019-02-01 09:13:34,205 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - The expected organization is displayed
+2019-02-01 09:13:34,244 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Region is displayed
+2019-02-01 09:13:34,401 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Group is displayed
+2019-02-01 09:13:34,560 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Owner Type is displayed
+2019-02-01 09:13:34,680 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Rent Type is displayed
+2019-02-01 09:18:16,101 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-01 09:18:27,816 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - The expected record type is displayed
+2019-02-01 09:18:27,980 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected classification is displayed
+2019-02-01 09:18:28,021 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Brand is displayed
+2019-02-01 09:18:28,057 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - The expected organization is displayed
+2019-02-01 09:18:28,094 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Region is displayed
+2019-02-01 09:18:28,253 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Group is displayed
+2019-02-01 09:18:28,372 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Owner Type is displayed
+2019-02-01 09:18:28,494 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Rent Type is displayed
+2019-02-01 09:29:55,754 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-01 09:30:10,430 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - The expected record type is displayed
+2019-02-01 09:30:10,619 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected classification is displayed
+2019-02-01 09:30:10,665 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Brand is displayed
+2019-02-01 09:30:10,704 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - The expected organization is displayed
+2019-02-01 09:30:10,741 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Region is displayed
+2019-02-01 09:30:10,924 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Group is displayed
+2019-02-01 09:30:11,052 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Owner Type is displayed
+2019-02-01 09:30:11,168 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Rent Type is displayed
+2019-02-01 09:32:10,763 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-01 09:32:22,653 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - The expected record type is displayed
+2019-02-01 09:32:22,872 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected classification is displayed
+2019-02-01 09:32:22,912 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Brand is displayed
+2019-02-01 09:32:22,948 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - The expected organization is displayed
+2019-02-01 09:32:22,984 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Region is displayed
+2019-02-01 09:32:23,135 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Group is displayed
+2019-02-01 09:32:23,263 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Owner Type is displayed
+2019-02-01 09:32:23,380 [14] INFO TxAutomateFramework.PageObjects.GeneralInformationEditPageObjects - Expected Rent Type is displayed

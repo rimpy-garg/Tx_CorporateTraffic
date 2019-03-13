@@ -1,0 +1,4 @@
+2019-03-12 13:05:33,614 [ParallelWorker#2] INFO GenericFramework.Hooks - Object reference not set to an instance of an object.
+2019-03-12 15:39:51,191 [ParallelWorker#2] INFO GenericFramework.Hooks - ScreenCapture path cannot be null or empty.
+2019-03-12 15:42:51,493 [ParallelWorker#1] INFO GenericFramework.Hooks - ScreenCapture path cannot be null or empty.
+2019-03-12 15:42:53,997 [ParallelWorker#2] INFO GenericFramework.Hooks - ScreenCapture path cannot be null or empty.

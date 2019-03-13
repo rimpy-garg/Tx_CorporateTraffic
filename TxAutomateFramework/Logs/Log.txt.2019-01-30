@@ -1,0 +1,158 @@
+2019-01-30 07:30:25,064 [ParallelWorker#1] INFO GenericFramework.GenericTestCases.TestSuite - CopyingC:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx file to output folder
+2019-01-30 07:30:25,514 [ParallelWorker#1] INFO GenericFramework.GenericTestCases.TestSuite - reading data from C:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx
+2019-01-30 07:30:25,524 [ParallelWorker#1] INFO GenericFramework.GenericTestCases.TestSuite - reading data from LeaseGeneral
+2019-01-30 07:30:28,090 [ParallelWorker#2] INFO GenericFramework.Hooks - Object reference not set to an instance of an object.
+2019-01-30 07:30:40,862 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-01-30 07:30:57,629 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Navigate to New Lease page
+2019-01-30 07:32:12,874 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - CopyingC:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx file to output folder
+2019-01-30 07:32:13,331 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - reading data from C:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx
+2019-01-30 07:32:13,341 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - reading data from LeaseGeneral
+2019-01-30 07:32:26,104 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-01-30 07:32:29,598 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Navigate to New Lease page
+2019-01-30 07:34:48,138 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - CopyingC:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx file to output folder
+2019-01-30 07:34:48,586 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - reading data from C:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx
+2019-01-30 07:34:48,595 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - reading data from LeaseGeneral
+2019-01-30 07:34:59,194 [NonParallelWorker] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-01-30 07:35:02,018 [NonParallelWorker] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Navigate to New Lease page
+2019-01-30 07:45:11,362 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - CopyingC:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx file to output folder
+2019-01-30 07:45:11,830 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - reading data from C:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx
+2019-01-30 07:45:11,839 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - reading data from LeaseGeneral
+2019-01-30 07:45:14,350 [ParallelWorker#1] INFO GenericFramework.Hooks - Object reference not set to an instance of an object.
+2019-01-30 07:45:32,870 [ParallelWorker#1] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-01-30 07:45:35,093 [ParallelWorker#1] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Navigate to New Lease page
+2019-01-30 07:48:56,376 [ParallelWorker#1] INFO GenericFramework.GenericTestCases.TestSuite - CopyingC:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx file to output folder
+2019-01-30 07:48:56,873 [ParallelWorker#1] INFO GenericFramework.GenericTestCases.TestSuite - reading data from C:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx
+2019-01-30 07:48:56,882 [ParallelWorker#1] INFO GenericFramework.GenericTestCases.TestSuite - reading data from LeaseGeneral
+2019-01-30 07:48:59,334 [ParallelWorker#2] INFO GenericFramework.Hooks - Object reference not set to an instance of an object.
+2019-01-30 07:49:03,912 [ParallelWorker#2] INFO GenericFramework.Hooks - Object reference not set to an instance of an object.
+2019-01-30 07:49:55,093 [ParallelWorker#1] INFO GenericFramework.GenericTestCases.TestSuite - CopyingC:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx file to output folder
+2019-01-30 07:49:55,553 [ParallelWorker#1] INFO GenericFramework.GenericTestCases.TestSuite - reading data from C:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx
+2019-01-30 07:49:55,564 [ParallelWorker#1] INFO GenericFramework.GenericTestCases.TestSuite - reading data from LeaseGeneral
+2019-01-30 07:49:57,979 [ParallelWorker#2] INFO GenericFramework.Hooks - Object reference not set to an instance of an object.
+2019-01-30 07:49:57,979 [ParallelWorker#1] INFO GenericFramework.Hooks - Object reference not set to an instance of an object.
+2019-01-30 07:50:03,630 [ParallelWorker#2] INFO GenericFramework.Hooks - Object reference not set to an instance of an object.
+2019-01-30 07:54:30,289 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - CopyingC:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx file to output folder
+2019-01-30 07:54:30,736 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - reading data from C:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx
+2019-01-30 07:54:30,746 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - reading data from LeaseGeneral
+2019-01-30 07:59:00,055 [ParallelWorker#1] INFO GenericFramework.GenericTestCases.TestSuite - CopyingC:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx file to output folder
+2019-01-30 07:59:00,542 [ParallelWorker#1] INFO GenericFramework.GenericTestCases.TestSuite - reading data from C:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx
+2019-01-30 07:59:00,552 [ParallelWorker#1] INFO GenericFramework.GenericTestCases.TestSuite - reading data from LeaseGeneral
+2019-01-30 07:59:24,941 [ParallelWorker#1] INFO GenericFramework.Hooks - Object reference not set to an instance of an object.
+2019-01-30 08:01:26,926 [ParallelWorker#1] INFO GenericFramework.GenericTestCases.TestSuite - CopyingC:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx file to output folder
+2019-01-30 08:01:27,371 [ParallelWorker#1] INFO GenericFramework.GenericTestCases.TestSuite - reading data from C:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx
+2019-01-30 08:01:27,383 [ParallelWorker#1] INFO GenericFramework.GenericTestCases.TestSuite - reading data from LeaseGeneral
+2019-01-30 08:02:04,891 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - CopyingC:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx file to output folder
+2019-01-30 08:02:05,342 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - reading data from C:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx
+2019-01-30 08:02:05,352 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - reading data from LeaseGeneral
+2019-01-30 08:05:11,775 [14] INFO GenericFramework.GenericTestCases.TestSuite - CopyingC:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx file to output folder
+2019-01-30 08:05:12,284 [14] INFO GenericFramework.GenericTestCases.TestSuite - reading data from C:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx
+2019-01-30 08:05:12,295 [14] INFO GenericFramework.GenericTestCases.TestSuite - reading data from LeaseGeneral
+2019-01-30 08:05:14,964 [ParallelWorker#2] INFO GenericFramework.Hooks - Object reference not set to an instance of an object.
+2019-01-30 08:05:40,185 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-01-30 08:05:42,844 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Navigate to New Lease page
+2019-01-30 08:07:27,843 [ParallelWorker#1] INFO GenericFramework.GenericTestCases.TestSuite - CopyingC:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx file to output folder
+2019-01-30 08:07:28,268 [ParallelWorker#1] INFO GenericFramework.GenericTestCases.TestSuite - reading data from C:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx
+2019-01-30 08:07:28,279 [ParallelWorker#1] INFO GenericFramework.GenericTestCases.TestSuite - reading data from LeaseGeneral
+2019-01-30 08:07:56,717 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-01-30 08:08:00,628 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Navigate to New Lease page
+2019-01-30 08:08:02,936 [ParallelWorker#2] INFO GenericFramework.Hooks - Object reference not set to an instance of an object.
+2019-01-30 08:09:08,901 [ParallelWorker#1] INFO GenericFramework.GenericTestCases.TestSuite - CopyingC:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx file to output folder
+2019-01-30 08:09:09,336 [ParallelWorker#1] INFO GenericFramework.GenericTestCases.TestSuite - reading data from C:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx
+2019-01-30 08:09:09,345 [ParallelWorker#1] INFO GenericFramework.GenericTestCases.TestSuite - reading data from LeaseGeneral
+2019-01-30 08:09:11,726 [ParallelWorker#1] INFO GenericFramework.Hooks - Object reference not set to an instance of an object.
+2019-01-30 08:09:31,734 [ParallelWorker#1] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-01-30 08:09:34,278 [ParallelWorker#1] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Navigate to New Lease page
+2019-01-30 08:10:55,243 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - CopyingC:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx file to output folder
+2019-01-30 08:10:55,696 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - reading data from C:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx
+2019-01-30 08:10:55,706 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - reading data from LeaseGeneral
+2019-01-30 08:11:22,353 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-01-30 08:11:25,593 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Navigate to New Lease page
+2019-01-30 08:13:20,996 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - CopyingC:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx file to output folder
+2019-01-30 08:13:21,433 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - reading data from C:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx
+2019-01-30 08:13:21,442 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - reading data from LeaseGeneral
+2019-01-30 08:13:35,249 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-01-30 08:13:38,044 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Navigate to New Lease page
+2019-01-30 08:13:38,112 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Record ID
+2019-01-30 08:13:38,440 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Record Type
+2019-01-30 08:13:38,695 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Classification
+2019-01-30 08:13:38,903 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Brand
+2019-01-30 08:13:54,590 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Original Start Date
+2019-01-30 08:13:54,832 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Property Type
+2019-01-30 08:13:55,048 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Start Date
+2019-01-30 08:13:55,205 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Address : Street Name, Town, State PIN and Country
+2019-01-30 08:13:55,981 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Organization
+2019-01-30 08:13:59,605 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Region
+2019-01-30 08:14:03,099 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Group Name
+2019-01-30 08:14:03,235 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Owner Type
+2019-01-30 08:14:03,343 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter End Date
+2019-01-30 08:14:03,490 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Rent Type
+2019-01-30 08:14:03,647 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Rentable Area
+2019-01-30 08:14:03,757 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Measurment Area
+2019-01-30 08:14:03,940 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Land Unit
+2019-01-30 08:14:09,200 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Clicked on Save and Create Lease button
+2019-01-30 10:59:34,193 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - CopyingC:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx file to output folder
+2019-01-30 10:59:34,681 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - reading data from C:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx
+2019-01-30 10:59:34,690 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - reading data from LeaseGeneral
+2019-01-30 11:00:08,616 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-01-30 11:00:12,094 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Navigate to New Lease page
+2019-01-30 11:00:12,198 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Record ID
+2019-01-30 11:00:12,540 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Record Type
+2019-01-30 11:00:12,767 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Classification
+2019-01-30 11:00:12,952 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Brand
+2019-01-30 11:00:26,611 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Original Start Date
+2019-01-30 11:00:26,959 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Property Type
+2019-01-30 11:00:27,387 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Start Date
+2019-01-30 11:00:27,596 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Address : Street Name, Town, State PIN and Country
+2019-01-30 11:00:29,176 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Organization
+2019-01-30 11:00:33,219 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Region
+2019-01-30 11:00:36,878 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Group Name
+2019-01-30 11:00:37,368 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Owner Type
+2019-01-30 11:00:37,579 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter End Date
+2019-01-30 11:00:37,737 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Rent Type
+2019-01-30 11:00:37,959 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Rentable Area
+2019-01-30 11:00:38,083 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Measurment Area
+2019-01-30 11:00:38,541 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Land Unit
+2019-01-30 11:01:01,659 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Clicked on Save and Create Lease button
+2019-01-30 11:27:00,407 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - CopyingC:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx file to output folder
+2019-01-30 11:27:00,858 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - reading data from C:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\TestSuite.xlsx
+2019-01-30 11:27:00,868 [ParallelWorker#2] INFO GenericFramework.GenericTestCases.TestSuite - reading data from LeaseGeneral
+2019-01-30 11:27:16,040 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-01-30 11:27:23,648 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Navigate to New Lease page
+2019-01-30 11:27:23,720 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Record ID
+2019-01-30 11:27:24,159 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Record Type
+2019-01-30 11:27:24,601 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Classification
+2019-01-30 11:27:25,952 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Brand
+2019-01-30 11:27:37,318 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Original Start Date
+2019-01-30 11:27:37,533 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Property Type
+2019-01-30 11:27:37,747 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Start Date
+2019-01-30 11:27:37,898 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Address : Street Name, Town, State PIN and Country
+2019-01-30 11:27:38,943 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Organization
+2019-01-30 11:27:42,497 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Region
+2019-01-30 11:27:45,946 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Group Name
+2019-01-30 11:27:46,086 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Owner Type
+2019-01-30 11:27:46,190 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter End Date
+2019-01-30 11:27:46,333 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Rent Type
+2019-01-30 11:27:46,490 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Rentable Area
+2019-01-30 11:27:46,624 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Measurment Area
+2019-01-30 11:27:46,803 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Land Unit
+2019-01-30 11:27:51,835 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Clicked on Save and Create Lease button
+2019-01-30 11:35:21,851 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-01-30 11:35:25,449 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Navigate to New Lease page
+2019-01-30 11:35:25,523 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Record ID
+2019-01-30 11:35:25,863 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Record Type
+2019-01-30 11:35:26,063 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Classification
+2019-01-30 11:35:26,305 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Brand
+2019-01-30 11:35:34,772 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Original Start Date
+2019-01-30 11:35:34,980 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Property Type
+2019-01-30 11:35:35,178 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Start Date
+2019-01-30 11:35:35,366 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Address : Street Name, Town, State PIN and Country
+2019-01-30 11:35:36,171 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Organization
+2019-01-30 11:35:39,692 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Region
+2019-01-30 11:35:43,332 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Group Name
+2019-01-30 11:35:43,516 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Owner Type
+2019-01-30 11:35:43,612 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter End Date
+2019-01-30 11:35:43,742 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Rent Type
+2019-01-30 11:35:43,949 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Enter Rentable Area
+2019-01-30 11:35:44,082 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Measurment Area
+2019-01-30 11:35:44,243 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Select Land Unit
+2019-01-30 11:35:48,767 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Clicked on Save and Create Lease button

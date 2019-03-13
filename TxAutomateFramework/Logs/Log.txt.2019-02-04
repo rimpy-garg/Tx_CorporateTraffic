@@ -1,0 +1,8 @@
+2019-02-04 06:35:02,702 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-04 06:35:28,730 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-04 06:35:28,973 [12] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Clicked on Landlord 'Edit' link
+2019-02-04 06:36:21,336 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-04 06:38:44,803 [13] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-04 06:38:58,499 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Contacts tab clicked
+2019-02-04 06:38:58,692 [13] INFO TxAutomateFramework.PageObjects.ContactsPageObjects - Clicked on Landlord 'Edit' link
+2019-02-04 06:39:32,248 [13] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked

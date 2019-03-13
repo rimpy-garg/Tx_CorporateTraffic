@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="4" result="Passed" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.9.0.0" clr-version="4.0.30319.42000" start-time="2019-01-28 02:13:42Z" end-time="2019-01-28 02:13:45Z" duration="2.852373">
+  <command-line><![CDATA["C:\Users\sbusireddy\TX_VisualLease_Automation\packages\NUnit.ConsoleRunner.3.9.0\tools\nunit3-console.exe"  C:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\bin\Debug\TxAutomateFramework.dll --where "method=RunScript"]]></command-line>
+  <filter>
+    <method>RunScript</method>
+  </filter>
+  <test-suite type="Assembly" id="0-1010" name="TxAutomateFramework.dll" fullname="TxAutomateFramework.dll" runstate="Runnable" testcasecount="4" result="Passed" start-time="2019-01-28 02:13:44Z" end-time="2019-01-28 02:13:45Z" duration="1.667113" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+    <environment framework-version="3.11.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 10.0.17134.0" platform="Win32NT" cwd="C:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework" machine-name="VL-WBR-SABU1" user="sbusireddy" user-domain="VISUALLEASE" culture="en-US" uiculture="en-US" os-architecture="x64" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="C:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.6.1" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="NumberOfTestWorkers" value="2" />
+    </settings>
+    <properties>
+      <property name="ParallelScope" value="Children" />
+      <property name="_PID" value="18712" />
+      <property name="_APPDOMAIN" value="domain-" />
+    </properties>
+    <test-suite type="TestSuite" id="0-1011" name="TxAutomateFramework" fullname="TxAutomateFramework" runstate="Runnable" testcasecount="4" result="Passed" start-time="2019-01-28 02:13:44Z" end-time="2019-01-28 02:13:45Z" duration="1.632230" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+      <test-suite type="TestSuite" id="0-1012" name="TestCases" fullname="TxAutomateFramework.TestCases" runstate="Runnable" testcasecount="1" result="Passed" start-time="2019-01-28 02:13:44Z" end-time="2019-01-28 02:13:45Z" duration="1.626303" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+        <test-suite type="TestFixture" id="0-1000" name="TestSript" fullname="TxAutomateFramework.TestCases.TestSript" classname="TxAutomateFramework.TestCases.TestSript" runstate="Runnable" testcasecount="1" result="Passed" start-time="2019-01-28 02:13:44Z" end-time="2019-01-28 02:13:45Z" duration="1.623032" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+          <properties>
+            <property name="ParallelScope" value="Self, Fixtures" />
+          </properties>
+          <test-case id="0-1001" name="RunScript" fullname="TxAutomateFramework.TestCases.TestSript.RunScript" methodname="RunScript" classname="TxAutomateFramework.TestCases.TestSript" runstate="Runnable" seed="1864614218" result="Passed" start-time="2019-01-28 02:13:44Z" end-time="2019-01-28 02:13:45Z" duration="1.121301" asserts="0">
+            <output><![CDATA[2019-01-27 21:13:44,643 INFO GenericFramework.GenericTestCases.TestSuite - CopyingC:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\\TestSuite.xlsx file to output folder
+2019-01-27 21:13:45,643 INFO GenericFramework.GenericTestCases.TestSuite - reading data from C:\Users\sbusireddy\TX_VisualLease_Automation\TxAutomateFramework\TestData\Outputs\\TestSuite.xlsx
+2019-01-27 21:13:45,659 INFO GenericFramework.GenericTestCases.TestSuite - reading data from LeaseGeneral
+]]></output>
+          </test-case>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

@@ -1,0 +1,21 @@
+2019-02-05 08:06:31,276 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-05 11:57:41,077 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-05 11:57:57,638 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-05 11:58:05,786 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.FinancialsPageObjects - Fialed while filling the data
+2019-02-05 12:14:42,617 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-05 12:14:55,445 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-05 12:15:03,402 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.FinancialsPageObjects - Fialed while filling the data
+2019-02-05 12:17:13,436 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-05 12:17:24,555 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-05 12:17:32,520 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.FinancialsPageObjects - Fialed while filling the data
+2019-02-05 12:22:53,256 [ParallelWorker#2] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-05 12:23:05,199 [ParallelWorker#2] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-05 12:24:13,520 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-05 12:24:26,339 [14] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-05 12:33:44,509 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-05 12:33:57,991 [14] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-05 12:45:24,364 [14] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-05 12:45:28,793 [14] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab not clicked
+2019-02-05 21:59:08,259 [12] INFO TxAutomateFramework.Steps.LeaseGeneralModuleSteps - Login to Application
+2019-02-05 21:59:20,129 [12] INFO TxAutomateFramework.PageObjects.LeaseGeneralPageObjects - Financials tab clicked
+2019-02-05 21:59:22,348 [12] INFO TxAutomateFramework.PageObjects.FinancialsPageObjects - Fialed while filling the data

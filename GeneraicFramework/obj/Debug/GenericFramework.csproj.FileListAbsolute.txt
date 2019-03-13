@@ -1,0 +1,764 @@
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\nunit.engine.dll
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\nunit.engine.api.dll
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\GenericFramework.dll.config
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\GenericFramework.dll
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\GenericFramework.pdb
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\appium-dotnet-driver.dll
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\Castle.Core.dll
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\ExtentReports.dll
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\HtmlAgilityPack.dll
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.TestManagement.Client.dll
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\MongoDB.Bson.dll
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\MongoDB.Driver.dll
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\NPOI.dll
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\NPOI.OOXML.dll
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\nunit.framework.dll
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\RazorEngine.dll
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\System.Web.Razor.dll
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\WebDriver.dll
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.TestManagement.Common.dll
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\appium-dotnet-driver.xml
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\Castle.Core.xml
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\HtmlAgilityPack.xml
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\MongoDB.Bson.xml
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\MongoDB.Driver.xml
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\NPOI.xml
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\nunit.framework.pdb
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\nunit.framework.xml
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\RazorEngine.xml
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\System.Web.Razor.xml
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\WebDriver.xml
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\obj\Debug\GenericFramework.dll
+C:\Users\satyanarayan.b\Downloads\TxAutomate_POM_Csharp\GeneraicFramework\obj\Debug\GenericFramework.pdb
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NUnit3.TestAdapter.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NUnit3.TestAdapter.pdb
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.engine.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.engine.api.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\GenericFramework.dll.config
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\GenericFramework.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\GenericFramework.pdb
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\appium-dotnet-driver.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Castle.Core.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ExtentReports.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\HtmlAgilityPack.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.Client.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.TestManagement.Client.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\MongoDB.Bson.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\MongoDB.Driver.Core.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\MongoDB.Driver.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Newtonsoft.Json.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NPOI.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NPOI.OOXML.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NPOI.OpenXml4Net.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.framework.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\RazorEngine.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Web.Razor.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\WebDriver.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\WebDriver.Support.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.Common.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.Core.WebApi.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.VisualStudio.Services.Client.Interactive.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.Work.WebApi.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.ProjectManagement.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.TestManagement.Common.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.Build.Client.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Common.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Proxy.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Net.Http.Formatting.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.ServiceBus.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.VersionControl.Client.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.Build.Common.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.SourceControl.WebApi.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.VersionControl.Common.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.VersionControl.Common.Integration.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\appium-dotnet-driver.xml
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Castle.Core.xml
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\HtmlAgilityPack.pdb
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\HtmlAgilityPack.xml
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\MongoDB.Bson.xml
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\MongoDB.Driver.xml
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\MongoDB.Driver.Core.xml
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Newtonsoft.Json.pdb
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Newtonsoft.Json.xml
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NPOI.xml
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.framework.pdb
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.framework.xml
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\RazorEngine.xml
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Web.Razor.xml
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\WebDriver.xml
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\WebDriver.Support.xml
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\cs\Microsoft.TeamFoundation.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\de\Microsoft.TeamFoundation.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\es\Microsoft.TeamFoundation.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\fr\Microsoft.TeamFoundation.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\it\Microsoft.TeamFoundation.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ja\Microsoft.TeamFoundation.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ko\Microsoft.TeamFoundation.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pl\Microsoft.TeamFoundation.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pt-BR\Microsoft.TeamFoundation.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ru\Microsoft.TeamFoundation.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\tr\Microsoft.TeamFoundation.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\cs\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\de\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\es\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\fr\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\it\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ja\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ko\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pl\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pt-BR\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ru\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\tr\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hans\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hant\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\cs\Microsoft.TeamFoundation.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\de\Microsoft.TeamFoundation.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\es\Microsoft.TeamFoundation.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\fr\Microsoft.TeamFoundation.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\it\Microsoft.TeamFoundation.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ja\Microsoft.TeamFoundation.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ko\Microsoft.TeamFoundation.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pl\Microsoft.TeamFoundation.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\tr\Microsoft.TeamFoundation.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\de\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\es\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\it\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\cs\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\de\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\es\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\fr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\it\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ja\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ko\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pl\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ru\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\tr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\cs\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\de\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\es\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\fr\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\it\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ja\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ko\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pl\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pt-BR\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ru\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\tr\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\cs\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\de\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\es\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\fr\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\it\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ja\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ko\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pl\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pt-BR\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ru\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\tr\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\cs\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\de\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\es\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\fr\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\it\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ja\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ko\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pl\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pt-BR\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ru\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\tr\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hans\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hant\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\cs\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\de\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\es\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\fr\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\it\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ja\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ko\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pl\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pt-BR\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ru\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\tr\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hans\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hant\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.pdb
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Net.Http.Extensions.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Net.Http.Primitives.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.IO.Compression.dll
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.csproj.CoreCompileInputs.cache
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.csproj.CopyComplete
+D:\VR\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.csprojResolveAssemblyReference.cache
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.engine.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.engine.api.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\GenericFramework.dll.config
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\GenericFramework.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\GenericFramework.pdb
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\appium-dotnet-driver.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Castle.Core.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ExtentReports.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\HtmlAgilityPack.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.TestManagement.Client.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\MongoDB.Bson.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\MongoDB.Driver.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NPOI.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NPOI.OOXML.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.framework.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\RazorEngine.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Net.Http.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Web.Razor.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\WebDriver.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.TestManagement.Common.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\appium-dotnet-driver.xml
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Castle.Core.xml
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\HtmlAgilityPack.xml
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\MongoDB.Bson.xml
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\MongoDB.Driver.xml
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NPOI.xml
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.framework.pdb
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.framework.xml
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\RazorEngine.xml
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Net.Http.xml
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Web.Razor.xml
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\WebDriver.xml
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.csprojResolveAssemblyReference.cache
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.dll
+C:\Users\satyanarayan.b\Downloads\Visual_Lease\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.pdb
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NUnit3.TestAdapter.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NUnit3.TestAdapter.pdb
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.engine.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.engine.api.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\GenericFramework.dll.config
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\GenericFramework.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\GenericFramework.pdb
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\appium-dotnet-driver.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Castle.Core.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ExtentReports.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\HtmlAgilityPack.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.TestManagement.Client.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\MongoDB.Bson.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\MongoDB.Driver.Core.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\MongoDB.Driver.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Newtonsoft.Json.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NPOI.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NPOI.OOXML.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NPOI.OpenXml4Net.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.framework.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\RazorEngine.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Net.Http.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Net.Http.Extensions.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Net.Http.Formatting.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Net.Http.Primitives.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Net.Http.WebRequest.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Web.Razor.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\WebDriver.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\WebDriver.Support.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.TestManagement.Common.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\appium-dotnet-driver.xml
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Castle.Core.xml
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\HtmlAgilityPack.pdb
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\HtmlAgilityPack.xml
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\MongoDB.Bson.xml
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\MongoDB.Driver.xml
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\MongoDB.Driver.Core.xml
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Newtonsoft.Json.pdb
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Newtonsoft.Json.xml
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NPOI.xml
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.framework.pdb
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.framework.xml
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\RazorEngine.xml
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Net.Http.xml
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Net.Http.WebRequest.xml
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Web.Razor.xml
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\WebDriver.xml
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\WebDriver.Support.xml
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.csprojResolveAssemblyReference.cache
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.dll
+E:\VisualLease\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.pdb
+D:\VR\New folder\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\GenericFramework.dll
+D:\VR\New folder\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NUnit3.TestAdapter.dll
+D:\VR\New folder\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NUnit3.TestAdapter.pdb
+D:\VR\New folder\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.engine.dll
+D:\VR\New folder\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.engine.api.dll
+D:\VR\New folder\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\GenericFramework.dll.config
+D:\VR\New folder\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.TestManagement.Common.dll
+D:\VR\New folder\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.csprojResolveAssemblyReference.cache
+D:\VR\New folder\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.csproj.CoreCompileInputs.cache
+D:\VR\New folder\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.csproj.CopyComplete
+D:\VR\New folder\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.dll
+D:\VR\New folder\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.pdb
+D:\VR\New folder\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NUnit3.TestAdapter.dll
+D:\VR\New folder\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NUnit3.TestAdapter.pdb
+D:\VR\New folder\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.engine.dll
+D:\VR\New folder\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.engine.api.dll
+D:\VR\New folder\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\GenericFramework.dll.config
+D:\VR\New folder\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\GenericFramework.dll
+D:\VR\New folder\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\GenericFramework.pdb
+D:\VR\New folder\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\RestSharp.dll
+D:\VR\New folder\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\RestSharp.xml
+D:\VR\New folder\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.dll
+D:\VR\New folder\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.pdb
+D:\VR\New folder\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.csprojResolveAssemblyReference.cache
+C:\Users\sbusireddy\TX_VisualLease_Automation_V5\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\sbusireddy\TX_VisualLease_Automation_V5\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\sbusireddy\TX_VisualLease_Automation_V5\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.engine.dll
+C:\Users\sbusireddy\TX_VisualLease_Automation_V5\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.engine.api.dll
+C:\Users\sbusireddy\TX_VisualLease_Automation_V5\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\GenericFramework.dll.config
+C:\Users\sbusireddy\TX_VisualLease_Automation_V5\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\GenericFramework.dll
+C:\Users\sbusireddy\TX_VisualLease_Automation_V5\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\GenericFramework.pdb
+C:\Users\sbusireddy\TX_VisualLease_Automation_V5\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\RestSharp.dll
+C:\Users\sbusireddy\TX_VisualLease_Automation_V5\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.TestManagement.Common.dll
+C:\Users\sbusireddy\TX_VisualLease_Automation_V5\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\RestSharp.xml
+C:\Users\sbusireddy\TX_VisualLease_Automation_V5\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.csprojAssemblyReference.cache
+C:\Users\sbusireddy\TX_VisualLease_Automation_V5\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.csproj.CoreCompileInputs.cache
+C:\Users\sbusireddy\TX_VisualLease_Automation_V5\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.csproj.CopyComplete
+C:\Users\sbusireddy\TX_VisualLease_Automation_V5\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.dll
+C:\Users\sbusireddy\TX_VisualLease_Automation_V5\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.pdb
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NUnit3.TestAdapter.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NUnit3.TestAdapter.pdb
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.engine.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.engine.api.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\GenericFramework.dll.config
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\GenericFramework.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\GenericFramework.pdb
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\appium-dotnet-driver.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Castle.Core.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ExtentReports.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\HtmlAgilityPack.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\log4net.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.Client.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.TestManagement.Client.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\MongoDB.Bson.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\MongoDB.Driver.Core.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\MongoDB.Driver.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Newtonsoft.Json.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NPOI.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NPOI.OOXML.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NPOI.OpenXml4Net.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.framework.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\RazorEngine.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\RestSharp.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\SeleniumExtras.PageObjects.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.IO.Compression.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Net.Http.Extensions.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Net.Http.Formatting.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Net.Http.Primitives.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Web.Razor.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\WebDriver.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\WebDriver.Support.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.Common.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.Core.WebApi.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.VisualStudio.Services.Client.Interactive.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.Work.WebApi.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.ProjectManagement.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.TestManagement.Common.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.Build.Client.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Common.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Proxy.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.ServiceBus.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.VersionControl.Client.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.Build.Common.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.SourceControl.WebApi.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.VersionControl.Common.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.VersionControl.Common.Integration.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\appium-dotnet-driver.xml
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Castle.Core.xml
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\HtmlAgilityPack.pdb
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\HtmlAgilityPack.xml
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\log4net.xml
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\MongoDB.Bson.xml
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\MongoDB.Driver.xml
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\MongoDB.Driver.Core.xml
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Newtonsoft.Json.pdb
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Newtonsoft.Json.xml
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NPOI.xml
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.framework.pdb
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.framework.xml
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\RazorEngine.xml
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\RestSharp.xml
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Web.Razor.xml
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\WebDriver.xml
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\WebDriver.Support.xml
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\cs\Microsoft.TeamFoundation.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\de\Microsoft.TeamFoundation.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\es\Microsoft.TeamFoundation.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\fr\Microsoft.TeamFoundation.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\it\Microsoft.TeamFoundation.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ja\Microsoft.TeamFoundation.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ko\Microsoft.TeamFoundation.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pl\Microsoft.TeamFoundation.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pt-BR\Microsoft.TeamFoundation.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ru\Microsoft.TeamFoundation.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\tr\Microsoft.TeamFoundation.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\cs\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\de\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\es\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\fr\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\it\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ja\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ko\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pl\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pt-BR\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ru\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\tr\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hans\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hant\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\cs\Microsoft.TeamFoundation.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\de\Microsoft.TeamFoundation.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\es\Microsoft.TeamFoundation.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\fr\Microsoft.TeamFoundation.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\it\Microsoft.TeamFoundation.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ja\Microsoft.TeamFoundation.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ko\Microsoft.TeamFoundation.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pl\Microsoft.TeamFoundation.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\tr\Microsoft.TeamFoundation.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\de\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\es\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\it\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\cs\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\de\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\es\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\fr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\it\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ja\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ko\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pl\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ru\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\tr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\cs\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\de\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\es\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\fr\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\it\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ja\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ko\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pl\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pt-BR\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ru\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\tr\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\cs\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\de\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\es\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\fr\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\it\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ja\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ko\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pl\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pt-BR\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ru\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\tr\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\cs\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\de\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\es\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\fr\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\it\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ja\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ko\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pl\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pt-BR\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ru\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\tr\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hans\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hant\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\cs\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\de\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\es\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\fr\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\it\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ja\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ko\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pl\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\pt-BR\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\ru\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\tr\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hans\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\zh-Hant\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.csprojAssemblyReference.cache
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.csproj.CoreCompileInputs.cache
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.csproj.CopyComplete
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.dll
+D:\VR\New folder\New2\TX_VisualLease_Automation-V7\TX_VisualLease_Automation-V7\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.pdb
+C:\Users\sbusireddy\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\sbusireddy\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\sbusireddy\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.engine.dll
+C:\Users\sbusireddy\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.engine.api.dll
+C:\Users\sbusireddy\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\GenericFramework.dll.config
+C:\Users\sbusireddy\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\GenericFramework.dll
+C:\Users\sbusireddy\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\GenericFramework.pdb
+C:\Users\sbusireddy\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Net.Http.dll
+C:\Users\sbusireddy\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\sbusireddy\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.TestManagement.Common.dll
+C:\Users\sbusireddy\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sbusireddy\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Net.Http.xml
+C:\Users\sbusireddy\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\sbusireddy\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.csprojResolveAssemblyReference.cache
+C:\Users\sbusireddy\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.dll
+C:\Users\sbusireddy\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.pdb
+C:\Users\testingxperts\Desktop\CorporateTraffic\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\testingxperts\Desktop\CorporateTraffic\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\testingxperts\Desktop\CorporateTraffic\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.engine.dll
+C:\Users\testingxperts\Desktop\CorporateTraffic\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.engine.api.dll
+C:\Users\testingxperts\Desktop\CorporateTraffic\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\GenericFramework.dll.config
+C:\Users\testingxperts\Desktop\CorporateTraffic\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\GenericFramework.dll
+C:\Users\testingxperts\Desktop\CorporateTraffic\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\GenericFramework.pdb
+C:\Users\testingxperts\Desktop\CorporateTraffic\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.TestManagement.Common.dll
+C:\Users\testingxperts\Desktop\CorporateTraffic\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\testingxperts\Desktop\CorporateTraffic\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.csprojAssemblyReference.cache
+C:\Users\testingxperts\Desktop\CorporateTraffic\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.csproj.CoreCompileInputs.cache
+C:\Users\testingxperts\Desktop\CorporateTraffic\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.csproj.CopyComplete
+C:\Users\testingxperts\Desktop\CorporateTraffic\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.dll
+C:\Users\testingxperts\Desktop\CorporateTraffic\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.pdb
+C:\Corporate Traffic\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NUnit3.TestAdapter.dll
+C:\Corporate Traffic\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Corporate Traffic\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.engine.dll
+C:\Corporate Traffic\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\nunit.engine.api.dll
+C:\Corporate Traffic\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\GenericFramework.dll.config
+C:\Corporate Traffic\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\GenericFramework.dll
+C:\Corporate Traffic\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\GenericFramework.pdb
+C:\Corporate Traffic\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.TeamFoundation.TestManagement.Common.dll
+C:\Corporate Traffic\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Corporate Traffic\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.csproj.CoreCompileInputs.cache
+C:\Corporate Traffic\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.csproj.CopyComplete
+C:\Corporate Traffic\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.dll
+C:\Corporate Traffic\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.pdb
+C:\Corporate Traffic\TX_VisualLease_Automation\TX_VisualLease_Automation\GeneraicFramework\obj\Debug\GenericFramework.csprojAssemblyReference.cache
